@@ -1,4 +1,4 @@
-# ScissorStonePaper
+# RockPaperScissors
 
 ## Projectoverview
 
